@@ -1,0 +1,26 @@
+body{
+    background: url(images/cinema.jpg);
+    -webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+form{
+    
+    box-sizing: border-box;
+    width: 380px;
+    margin: 100px auto 0;
+    height: 240px;
+    box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
+    padding-bottom: 40px;
+    border-radius: 3px;
+    background-color: #FFFFFF;
+    color: black;
+    opacity:0.8;
+}
+
+form table{
+    height: 165px
+    
+}
